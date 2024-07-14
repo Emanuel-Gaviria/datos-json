@@ -1,22 +1,22 @@
 [
     {
         "alumno":"Emanuel",
-        "nota":10,
+        "nota":9.6,
         "ranking":1
     },
     {
         "alumno":"Mathias",
-        "nota":4,
+        "nota":4.2,
         "ranking":10
     },
     {
         "alumno":"Diana",
-        "nota":9.8,
+        "nota":9.2,
         "ranking":2
     },
     {
         "alumno":"Jorge",
-        "nota":9.2,
+        "nota":9,
         "ranking":3
     },
     {
