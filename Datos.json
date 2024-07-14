@@ -1,6 +1,6 @@
 [
     {
-        "alumno":"Emanuel Gaviria Vargas",
+        "alumno":"Emanuel",
         "nota":9.6,
         "ranking":1
     },
@@ -45,7 +45,7 @@
         "ranking":7
     },
     {
-        "alumno":"Andres",
+        "alumno":"Gaviria",
         "nota":5.4,
         "ranking":9
     }
